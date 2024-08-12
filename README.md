@@ -16,7 +16,7 @@ L'objectif de ce projet est de construire un robot télécommandé en utilisant 
 
 ## Schéma de Câblage
 
-![Schéma de câblage](../../images\schema.png)
+![Schéma de câblage](https://github.com/ewenman5137/Projet_Robot/blob/main/images/schema.png)
 
 ## Instructions de Câblage
 
