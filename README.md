@@ -79,7 +79,8 @@ Vous avez maintenant toutes les informations nécessaires pour assembler et conf
 Si vous avez des questions ou des problèmes, n'hésitez pas à ouvrir une issue sur ce dépôt GitHub. Bon bricolage !
 
 # Résultat 
-![Schéma de câblage](images\présentation1.png)
-![Schéma de câblage](images\présentation2.png)
-![Schéma de câblage](images\présentation3.png)
-![Schéma de câblage](images\présentation4.png)
+![Schéma de câblage](https://github.com/ewenman5137/Projet_Robot/blob/main/images/pr%C3%A9sentation1.png)
+![Schéma de câblage](https://github.com/ewenman5137/Projet_Robot/blob/main/images/pr%C3%A9sentation2.png)
+![Schéma de câblage](https://github.com/ewenman5137/Projet_Robot/blob/main/images/pr%C3%A9sentation3.png)
+![Schéma de câblage](https://github.com/ewenman5137/Projet_Robot/blob/main/images/pr%C3%A9sentation4.png)
+
